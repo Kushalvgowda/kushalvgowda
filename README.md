@@ -11,7 +11,7 @@
 
 - 📄 Check out my Resume here **My Resume**
 
-- 📫 Reach out to me at [kushalvgowda7@gmail.com](kushalvgowda7@gmail.com) <br><hr><br>
+- 📫 Reach out to me at [kushalvgowda7@gmail.com](kushalvgowda7@gmail.com) <br><hr/><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
