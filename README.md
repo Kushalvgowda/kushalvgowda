@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1b7e5ea-0416-49ad-8b9f-955c68b9fbfe)<h1 align="center">Hi 👋, I'm Kushal V Gowda</h1>
+<h1 align="center">Hi 👋, I'm Kushal V Gowda</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalvgowda&label=Profile%20views&color=0e75b6&style=flat" alt="kushalvgowda" /> </p>
