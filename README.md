@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kushal V Gowda</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalvgowda&label=Profile%20views&color=0e75b6&style=flat" alt="kushalvgowda" /> </p>
 
 - 🌱 I'm currently learning **System Design and Agentic AI**
 
-- 📄 Check out my Resume here [My Resume](https://drive.google.com/file/d/1o3OVVqCtFPaLIx5Ymrpuj3kvlbOzNXvR/view?usp=sharing)
+- 📄 Check out my Resume here [My Resume](https://drive.google.com/file/d/19b7kt1DFUDOyPCpHWhADhpy6DyA4BtCQ/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Kushalvgowda)
 
-- 📝 I regularly write articles on [Dev Community](https://dev.to/)
+- 📫 Reach out to me at [kushalvgowda7@gmail.com](kushalvgowda7@gmail.com)
 
-- 📫 Reach out to me at [kushalvgowda7@gmail.com](kushalvgowda7@gmail.com) <br/>
+- 📝 I occasional write articles on [Dev Community](https://dev.to/) <br/>
 
 <hr/>
 
