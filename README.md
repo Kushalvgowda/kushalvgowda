@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kushal V Gowda</h1>
+![image](https://github.com/user-attachments/assets/f1b7e5ea-0416-49ad-8b9f-955c68b9fbfe)<h1 align="center">Hi 👋, I'm Kushal V Gowda</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalvgowda&label=Profile%20views&color=0e75b6&style=flat" alt="kushalvgowda" /> </p>
@@ -22,6 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="djangorestframework" width="40" height="40" style="padding-right: 10px;" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="padding-right: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding-right: 10px;" />
+    <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" alt="pytest" width="40" height="40" style="padding-right: 10px;" />
     <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40" style="padding-right: 10px;" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding-right: 10px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="padding-right: 10px;" />
