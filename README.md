@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me at [kushalvgowda7@gmail.com](kushalvgowda7@gmail.com)
 
-- 📝 I occasional write articles on [Dev Community](https://dev.to/) <br/>
+- 📝 I occasionally write articles on [Dev Community](https://dev.to/) <br/>
 
 <hr/>
 
