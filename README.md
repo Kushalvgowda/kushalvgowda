@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **System Design and Agentic AI**
 
-- 📄 Check out my Resume here [My Resume](https://drive.google.com/file/d/19b7kt1DFUDOyPCpHWhADhpy6DyA4BtCQ/view?usp=sharing)
+- 📄 Check out my Resume here [My Resume](https://drive.google.com/file/d/122IBpg3gG9qm1d08tiwOdx4lvh9CzyRT/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Kushalvgowda)
 
