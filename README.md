@@ -45,5 +45,3 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalvgowda&show_icons=true&locale=en&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="kushalvgowda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalvgowda&theme=blue_navy&hide_border=false&" alt="kushalvgowda" /></p>
